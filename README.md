@@ -6,4 +6,4 @@
 
 ![Screenshot](./Assets/Work%20Day%20Scheduler.png)
 
-Deployed Link: 
+Deployed Link: https://tojicodes.github.io/work-day-scheduler/
