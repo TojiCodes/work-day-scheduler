@@ -40,5 +40,5 @@ $(function () {
   });
   
   // Display current date in header
-  $('#currentDay').text(dayjs().format('dddd, MMMM D'));
+  $('#currentDay').text(dayjs().format('dddd, MMMM D, YYYY hh:mm A'));
   });
